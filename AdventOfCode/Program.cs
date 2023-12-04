@@ -9,7 +9,7 @@ using AdventOfCode.Day4;
 Console.WriteLine("Advent of Code Puzzles");
 //Day 4
 Day4 day4 = new Day4();
-var part1 = day4.GetPart1();
+day4.EvaluateDay();
 
 //Day 3
 // Day3 day3 = new Day3();
